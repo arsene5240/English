@@ -68,9 +68,15 @@
 >***They are successful in their <font color="#dd0000">respective</font> fields.***
 
 ## comprehensive ***
->******
->![ad](https://rcyan.github.io/WeChat-applet/images/ad1.jpg "我是悬停内容")
-******
+>***The reporter has made a <font color="#dd0000">comprehensive</font> report.***
+
+## utility *
+>***They sell much of the electricity to <font color="#dd0000">utilities</font> in Western Washington.***
+
+* <font color="#000066">utilities expense</font> 水電費用
+
+## adjacent *
+>***His house is <font color="#dd0000">adjacent</font> to mine.***
 # <font color="#006666">TOEIC Phrase</font>
 ## hold liable/accountable/responsible for *
 >The public <font color="#dd0000">holds</font> the President <font color="#dd0000">accountable for</font> success or failure of the entire administration.
